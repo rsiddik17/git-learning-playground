@@ -1,0 +1,7 @@
+📌 Git Learning Roadmap
+
+1. Git Basics
+
+--  Initialize a repository
+    git init
+    git clone <url>
