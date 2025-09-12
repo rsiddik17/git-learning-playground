@@ -8,5 +8,5 @@ It can be used as a personal note or a quick reference (cheatsheet).
 ## 1. Git Basics (Must Master First)
 
 **Initialize a repository**
-git init
-git clone <url>
+- git init
+- git clone <url>
