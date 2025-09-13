@@ -12,3 +12,6 @@
     it log --oneline --graph
 
 -- Add & save changes
+    git add .        # all files
+    git add <file>   # specific file
+    git commit -m "message"
