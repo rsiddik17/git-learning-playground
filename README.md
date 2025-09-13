@@ -15,3 +15,8 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git status
 - git log
 - git log --oneline --graph
+
+**Add & save changes**
+- git add .        # all files
+- git add <file>   # specific file
+- git commit -m "message"

@@ -10,3 +10,5 @@
     git status
     git log
     it log --oneline --graph
+
+-- Add & save changes
