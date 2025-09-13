@@ -10,3 +10,8 @@ It can be used as a personal note or a quick reference (cheatsheet).
 **Initialize a repository**
 - git init
 - git clone <url>
+
+**Check status & logs**
+- git status
+- git log
+- git log --oneline --graph

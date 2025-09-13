@@ -5,3 +5,8 @@
 --  Initialize a repository
     git init
     git clone <url>
+
+-- Check status & logs
+    git status
+    git log
+    it log --oneline --graph
