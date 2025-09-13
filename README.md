@@ -20,3 +20,7 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git add .        # all files
 - git add <file>   # specific file
 - git commit -m "message"
+
+**View differences**
+- git diff
+- git diff --staged

@@ -15,3 +15,7 @@
     git add .        # all files
     git add <file>   # specific file
     git commit -m "message"
+
+-- View differences
+    git diff
+    git diff --staged
