@@ -78,3 +78,5 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git revert <commit_hash>
 
 **Use reset (be careful)**
+- git reset <file>
+- git reset --hard <commit_hash>

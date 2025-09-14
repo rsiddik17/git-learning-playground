@@ -75,3 +75,7 @@
 
 -- Revert a commit:
     git revert <commit_hash>
+
+-- Use reset (be careful)
+    git reset <file>
+    git reset --hard <commit_hash>
