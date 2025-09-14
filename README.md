@@ -54,3 +54,14 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git checkout -b feature-x
 - git switch -c feature-x
 - git switch main
+
+**Merge a branch**
+- git merge feature-x
+
+**Delete / rename branch**
+- git branch -d feature-x
+- git branch -m new-name
+
+**Delete a branch on remote**
+- git push origin --delete <branch>
+
