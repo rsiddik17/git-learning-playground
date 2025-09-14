@@ -79,3 +79,12 @@
 -- Use reset (be careful)
     git reset <file>
     git reset --hard <commit_hash>
+
+5. Advanced Staging & Stash
+
+-- Stage part of a file
+    git add -p
+
+-- Temporarily save changes
+    git stash
+    git stash pop
