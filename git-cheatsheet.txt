@@ -2,7 +2,7 @@
 
 1. Git Basics
 
---  Initialize a repository
+-- Initialize a repository
     git init
     git clone <url>
 
@@ -23,3 +23,11 @@
 -- Undo simple changes
     git restore <file>
     git reset <file>
+
+
+2. Remote Repository
+
+-- Add a remote
+    git remote add origin <url>
+    git remote -v
+

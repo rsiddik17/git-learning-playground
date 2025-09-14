@@ -26,5 +26,22 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git diff --staged
 
 **Undo simple changes**
--- git restore <file>
--- git reset <file>
+- git restore <file>
+- git reset <file>
+
+
+## 2. Remote Repository
+
+**Add a remote**
+- git remote add origin <url>
+- git remote -v
+
+**Push to remote**
+- git branch -M main
+- git push -u origin main
+- git push
+
+**Pull & fetch**
+- git pull
+- git fetch
+- git pull origin main
