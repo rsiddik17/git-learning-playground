@@ -20,4 +20,6 @@
     git diff
     git diff --staged
 
---
+-- Undo simple changes
+    git restore <file>
+    git reset <file>

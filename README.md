@@ -24,3 +24,7 @@ It can be used as a personal note or a quick reference (cheatsheet).
 **View differences**
 - git diff
 - git diff --staged
+
+**Undo simple changes**
+-- git restore <file>
+-- git reset <file>
