@@ -45,3 +45,12 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git pull
 - git fetch
 - git pull origin main
+
+
+## 3. Branching Workflow
+
+**Create & switch branches**
+- git branch
+- git checkout -b feature-x
+- git switch -c feature-x
+- git switch main
