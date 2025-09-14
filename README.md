@@ -65,3 +65,16 @@ It can be used as a personal note or a quick reference (cheatsheet).
 **Delete a branch on remote**
 - git push origin --delete <branch>
 
+**View all branches**
+- git branch -r
+- git branch -a
+
+## 4. Undo & Revise Commits
+
+**Amend the last commit**
+- git commit --amend
+
+**Revert a commit**
+- git revert <commit_hash>
+
+**Use reset (be careful)**
