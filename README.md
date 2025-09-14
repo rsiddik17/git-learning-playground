@@ -69,6 +69,7 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git branch -r
 - git branch -a
 
+
 ## 4. Undo & Revise Commits
 
 **Amend the last commit**
@@ -80,3 +81,41 @@ It can be used as a personal note or a quick reference (cheatsheet).
 **Use reset (be careful)**
 - git reset <file>
 - git reset --hard <commit_hash>
+
+
+## 5. Advanced Staging & Stash
+
+**Stage part of a file**
+- git add -p
+
+**Temporarily save changes**
+- git stash
+- git stash pop
+
+
+## 6. Advanced Collaboration
+
+**Safe force push**
+- git push --force-with-lease
+
+**Show changes since a commit**
+- git diff <commit_hash>
+
+
+## 7. Tagging & Release
+
+**Create a version tag**
+- git tag v1.0.0
+- git push origin v1.0.0
+
+
+## 8. Advanced Workflow
+
+**Cherry-pick a commit**
+- git cherry-pick <commit_hash>
+
+**Rebase (linear merge)**
+- git rebase main
+
+**Clean untracked files**
+- git clean -f
