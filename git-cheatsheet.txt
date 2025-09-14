@@ -31,3 +31,13 @@
     git remote add origin <url>
     git remote -v
 
+-- Push to remote
+    git branch -M main
+    git push -u origin main
+    git push
+
+-- Pull & fetch
+    git pull
+    git fetch
+    git pull origin main
+
