@@ -62,6 +62,9 @@
     git branch -d feature-x
     git branch -m new-name
 
+-- Delete a branch on remote
+    git push origin --delete <branch>
+
 -- View all branches:
     git branch -r
     git branch -a
