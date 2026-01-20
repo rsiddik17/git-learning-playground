@@ -59,6 +59,7 @@ It can be used as a personal note or a quick reference (cheatsheet).
 - git switch main
 
 **Merge a branch**
+- git merge
 - git merge feature-x
 
 **Delete / rename branch**
