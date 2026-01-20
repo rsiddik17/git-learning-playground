@@ -72,3 +72,6 @@ It can be used as a personal note or a quick reference (cheatsheet).
 **View all branches**
 - git branch -r
 - git branch -a
+
+**Rebase**
+- git rebase

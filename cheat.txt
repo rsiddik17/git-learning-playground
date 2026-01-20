@@ -69,3 +69,6 @@
 -- View all branches:
     git branch -r
     git branch -a
+
+-- Rebase
+   git rebase
