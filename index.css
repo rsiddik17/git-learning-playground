@@ -10,4 +10,10 @@ div {
     background-color: coral;
     border-radius: 8px;
     margin: 0 auto;
+    transition: all .3s ease-in-out;
+}
+
+div:hover {
+    transform: translateY(-16px);
+    box-shadow: 0 0 16px blueviolet;
 }
