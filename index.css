@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    border-radius: 1rem;
+    margin: 0 auto;
+}
